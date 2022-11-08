@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefferson Góes</h1>
 <h3 align="center">A passionate embedded developer</h3>
 
-Working as a embedded developer at Instituto Eldorado with medical devices
-<a href="https://www.eldorado.org.br/" target="blank"><img src="https://www.eldorado.org.br/wp-content/themes/eldorado/assets/img/logo-negative.png" alt="bash" width="100" height="40"/></a>
-
 <h3 align="center">Contact</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jeffersonwgoes" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="jeffersonwgoes" height="40" width="40" /></a>
